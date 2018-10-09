@@ -9,3 +9,5 @@ hacker-rank solutions repository
 2. [Arithmetic Operators](https://github.com/xotrs/hacker-rank/blob/master/easy/Arithmetic_Operators.py) -> https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 
 3. [Division](https://github.com/xotrs/hacker-rank/blob/master/easy/Division.py) -> https://www.hackerrank.com/challenges/python-division/problem
+
+4. [Loops](https://github.com/xotrs/hacker-rank/blob/master/easy/Loops.py) -> https://www.hackerrank.com/challenges/python-loops/problem

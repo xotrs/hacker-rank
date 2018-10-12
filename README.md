@@ -15,3 +15,5 @@ hacker-rank solutions repository
 
 ### medium
 1. [Write a function](https://github.com/xotrs/hacker-rank/blob/master/medium/Write_a_function.py) -> https://www.hackerrank.com/challenges/write-a-function/problem
+
+2. [The Minion Game](https://github.com/xotrs/hacker-rank/blob/master/medium/The_minion_game.py) -> https://www.hackerrank.com/challenges/the-minion-game/problem
